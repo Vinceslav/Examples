@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GeekBrains\Знакомство с языками программирования\Знакомство с C#\Лекция 1\Examples\Examples\Example_003_Summa\bin\Debug\net6.0\Example_003_Summa.exe
+C:\Users\User\Desktop\GeekBrains\Знакомство с языками программирования\Знакомство с C#\Лекция 1\Examples\Examples\Example_003_Summa\bin\Debug\net6.0\Example_003_Summa.deps.json
+C:\Users\User\Desktop\GeekBrains\Знакомство с языками программирования\Знакомство с C#\Лекция 1\Examples\Examples\Example_003_Summa\bin\Debug\net6.0\Example_003_Summa.runtimeconfig.json
+C:\Users\User\Desktop\GeekBrains\Знакомство с языками программирования\Знакомство с C#\Лекция 1\Examples\Examples\Example_003_Summa\bin\Debug\net6.0\Example_003_Summa.dll
+C:\Users\User\Desktop\GeekBrains\Знакомство с языками программирования\Знакомство с C#\Лекция 1\Examples\Examples\Example_003_Summa\bin\Debug\net6.0\Example_003_Summa.pdb
+C:\Users\User\Desktop\GeekBrains\Знакомство с языками программирования\Знакомство с C#\Лекция 1\Examples\Examples\Example_003_Summa\obj\Debug\net6.0\Example_003_Summa.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GeekBrains\Знакомство с языками программирования\Знакомство с C#\Лекция 1\Examples\Examples\Example_003_Summa\obj\Debug\net6.0\Example_003_Summa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GeekBrains\Знакомство с языками программирования\Знакомство с C#\Лекция 1\Examples\Examples\Example_003_Summa\obj\Debug\net6.0\Example_003_Summa.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GeekBrains\Знакомство с языками программирования\Знакомство с C#\Лекция 1\Examples\Examples\Example_003_Summa\obj\Debug\net6.0\Example_003_Summa.AssemblyInfo.cs
+C:\Users\User\Desktop\GeekBrains\Знакомство с языками программирования\Знакомство с C#\Лекция 1\Examples\Examples\Example_003_Summa\obj\Debug\net6.0\Example_003_Summa.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GeekBrains\Знакомство с языками программирования\Знакомство с C#\Лекция 1\Examples\Examples\Example_003_Summa\obj\Debug\net6.0\Example_003_Summa.dll
+C:\Users\User\Desktop\GeekBrains\Знакомство с языками программирования\Знакомство с C#\Лекция 1\Examples\Examples\Example_003_Summa\obj\Debug\net6.0\refint\Example_003_Summa.dll
+C:\Users\User\Desktop\GeekBrains\Знакомство с языками программирования\Знакомство с C#\Лекция 1\Examples\Examples\Example_003_Summa\obj\Debug\net6.0\Example_003_Summa.pdb
+C:\Users\User\Desktop\GeekBrains\Знакомство с языками программирования\Знакомство с C#\Лекция 1\Examples\Examples\Example_003_Summa\obj\Debug\net6.0\Example_003_Summa.genruntimeconfig.cache
+C:\Users\User\Desktop\GeekBrains\Знакомство с языками программирования\Знакомство с C#\Лекция 1\Examples\Examples\Example_003_Summa\obj\Debug\net6.0\ref\Example_003_Summa.dll
